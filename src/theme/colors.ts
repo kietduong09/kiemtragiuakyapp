@@ -1,0 +1,22 @@
+// Bảng màu dùng chung cho toàn bộ ứng dụng.
+export const colors = {
+  primary: '#1F4D3F',
+  primaryPressed: '#163A30',
+  accent: '#B7832F',
+  background: '#F5F3EE',
+  surface: '#FFFFFF',
+  textPrimary: '#1E1D1A',
+  textSecondary: '#5F5B53',
+  textMuted: '#8C877C',
+  textOnPrimary: '#FFFFFF',
+  textOnPrimarySoft: '#C9DAD3',
+  border: '#DDD8CC',
+  chipBg: '#ECE8DD',
+  danger: '#B3261E',
+  dangerSoft: '#FBE9E7',
+  success: '#2E7D4F',
+  successSoft: '#E5F3EA',
+  disabledBg: '#E4E1D9',
+  disabledText: '#9A958A',
+  overlay: 'rgba(30, 29, 26, 0.92)',
+} as const;
