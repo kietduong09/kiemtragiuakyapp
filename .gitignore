@@ -14,3 +14,11 @@ ios/build/
 .metro-health-check*
 npm-debug.log
 yarn-error.log
+
+android/app/.cxx/
+android/.cxx/
+.idea/
+*.iml
+android/.gradle/
+android/app/build/
+android/build/
